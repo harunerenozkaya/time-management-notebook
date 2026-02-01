@@ -1,0 +1,25 @@
+{
+  "name": "time-management",
+  "version": "1.0.0",
+  "description": "A basic TypeScript time management application",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": ["typescript", "time-management"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docx": "^8.5.0",
+    "pdfkit": "^0.14.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "@types/pdfkit": "^0.13.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
+

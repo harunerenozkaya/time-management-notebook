@@ -1,0 +1,27 @@
+{
+  "language": "en",
+  "year": 2026,
+  "owner":"Harun Eren Özkaya",
+  "contact":"harunerenozkaya@gmail.com",
+
+  "bookDivision": "quarter",
+
+  "pageMargin": "1.27cm",
+  "frontCoverInitialSpacing": 3000,
+  
+  "titleTextSize": 48,
+  "contentTextSize": 18,
+
+  "firstDayOfWeek": 1,
+
+  "todoTableStatusCellType": "checkbox",
+  "dailyPageTodoTableCellCount": 6,
+  "dailyPageTodoTableCellHeight": 70,
+  "nonDailyPageTodoTableCellCount": 20,
+  "nonDailyPageTodoTableCellHeight": 80,
+
+  "timeTrackingTableCellHeight": 30,
+  "timeTrackingTableStartHour": 6,
+  "timeTrackingTableEndHour": 24
+}
+
